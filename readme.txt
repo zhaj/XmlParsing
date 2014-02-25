@@ -7,3 +7,5 @@ Optimizations:
 2. using batch update
 
 the time cost is reduced from 17 minutes to 45 seconds(populating db)
+
+(new branch test)
